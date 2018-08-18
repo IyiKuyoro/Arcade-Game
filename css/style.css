@@ -4,3 +4,7 @@ body {
     color: white;
     text-align: center;
 }
+
+#instruction {
+    color: #ccc;
+}
