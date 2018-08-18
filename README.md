@@ -1,7 +1,8 @@
 ## Frogger Arcade-game :video_game:
 
 This is a simple arcade game where you have to move a character from the bottom of the screen into the water at the top to win.
-![game screen shot](https://iyikuyoro.github.io/Arcade-Game/images/screen-shot.png)
+
+<img src="https://iyikuyoro.github.io/Arcade-Game/images/screen-shot.png" width="40%">
 
 # Getting Started
 You can play the game online :point_right: [Here](https://iyikuyoro.github.io/Arcade-Game/).
