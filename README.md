@@ -34,7 +34,7 @@ This game has been tested across multiple devices and should work fine on all mo
   * *Opeoluwa Iyi-Kuyoro* :man: - [Portfolio](https://iyikuyoro.github.io/My-Portfolio/)
 
 # Collaboration
-I am currently not accepting requests to collaborate on this project, however, your feedback is most welcome.
+Fork the project, make your changes, raise a PR and I will review.
 
 # Acknowledgments
   * The Udacity tutors for beautifully explaining how all of this can be done
